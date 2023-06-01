@@ -20,7 +20,6 @@ the **```Out```**  folder contain the static contents that are easily uploaded t
 
 npm build
 ```
-This command will downalad the required packages from node package manager.
 
 
 
